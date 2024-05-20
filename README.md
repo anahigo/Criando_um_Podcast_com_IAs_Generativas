@@ -1,4 +1,4 @@
-# Criando_um_Podcast_com_IAs_Generativas
+# Criando um Podcast com IAs Generativas
 
 O conteúdo textual foi gerado automaticamente pela IA e revisado por Ana Higo.
 Este recurso faz parte da avaliação do curso "Santander 2024 - Fundamentos de IA para Devs", especificamente do módulo Transformando Prompts em Soluções Reais.
